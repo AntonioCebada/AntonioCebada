@@ -1,9 +1,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Desarrollador `Full Stack` con un enfoque sólido en la creación de soluciones web eficientes y escalables. Mi metodología de trabajo se basa en encontrar el equilibrio perfecto entre una experiencia de usuario (`UX`) intuitiva y un `backend` robusto.
+Desarrollador `Backend` con enfoque en la creación de soluciones eficientes y escalables. Priorizo los fundamentos y buena planeacion antes de tocar código.
 <br><br>
-Cuento con experiencia en el sector público, donde he diseñado y desplegado Aplicaciones Web Progresivas (`PWA`) de alto impacto. Mis proyectos han transformado procesos internos y han innovado en la gestión ciudadana integrando tecnologías como `Blockchain` para la protección de datos y `n8n` para la eficiencia operativa. Como programador, desarrollo principalmente en entornos `Linux`, lo que me permite tener un control profundo sobre el sistema, el rendimiento y la seguridad de mis aplicaciones.
 
 ## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></picture> Lenguajes & Herramientas
 
