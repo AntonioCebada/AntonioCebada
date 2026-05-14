@@ -13,7 +13,7 @@
 <b><i align="center">Filosofía: "Fundamentos y Conceptos  >>  Código”</i></b>
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align='right' src='https://github.com/AntonioCebada/AntonioCebada/blob/main/media/octocat-anime.gif?raw=true' width='200'>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 
@@ -38,4 +38,4 @@ Cloud         Dokploy · n8n
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Github Stats ...._**
 
-![](https://github-readme-stats.shion.dev/api?username=AntonioCebada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=AntonioCebada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
